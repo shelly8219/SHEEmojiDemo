@@ -1,0 +1,59 @@
+{
+  "stickers" : [
+    {
+      "filename" : "爱你.sticker"
+    },
+    {
+      "filename" : "嘟嘴.sticker"
+    },
+    {
+      "filename" : "害羞.sticker"
+    },
+    {
+      "filename" : "挥手.sticker"
+    },
+    {
+      "filename" : "惊讶.sticker"
+    },
+    {
+      "filename" : "看着你.sticker"
+    },
+    {
+      "filename" : "哭笑.sticker"
+    },
+    {
+      "filename" : "脸红.sticker"
+    },
+    {
+      "filename" : "咧嘴笑.sticker"
+    },
+    {
+      "filename" : "摸摸头.sticker"
+    },
+    {
+      "filename" : "伤心.sticker"
+    },
+    {
+      "filename" : "生气.sticker"
+    },
+    {
+      "filename" : "托腮.sticker"
+    },
+    {
+      "filename" : "捂脸.sticker"
+    },
+    {
+      "filename" : "疑问.sticker"
+    },
+    {
+      "filename" : "赞.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
